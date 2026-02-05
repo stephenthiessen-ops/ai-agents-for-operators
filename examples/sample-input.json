@@ -1,0 +1,17 @@
+{
+  "week_ending": "2026-02-06",
+  "initiatives": [
+    {
+      "name": "Platform Observability Rollout",
+      "dcs_current": 72,
+      "dcs_prior": 80,
+      "blocked_days": 3,
+      "scope_changes_14d": 2,
+      "dependency_count": 4,
+      "critical_dependency": true,
+      "days_stagnant": 4,
+      "days_to_target": 12,
+      "status_notes": ["API instability delaying integration testing"]
+    }
+  ]
+}
